@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-01-01T21:13:33.077Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="GxyYJfHJUjX2umSLwn6e" version="22.1.16" type="device">
+<mxfile host="Electron" modified="2024-01-03T00:17:33.522Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="EsGsP4lQf_rEqXFaTTJx" version="22.1.16" type="device">
   <diagram name="Page-1" id="mkHK0wW7ZeUWsptHOZcX">
     <mxGraphModel dx="1114" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="K100ILrr0IqUAewiloMb-13" value="No local file/cmd access" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="580" y="160" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K100ILrr0IqUAewiloMb-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="K100ILrr0IqUAewiloMb-14" value="Main script must be `main.py`" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="580" y="240" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K100ILrr0IqUAewiloMb-15" value="/load https://github.com/retr0-init/example_module.mod.git" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" parent="1" vertex="1">
@@ -80,7 +80,7 @@
             <mxPoint x="540" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lmWkUtiPpXWJ_41hChya-1" value="/update github__retr0_h_init_s_example_u_module_d_mod" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+        <mxCell id="lmWkUtiPpXWJ_41hChya-1" value="/update github__retr0_h_init_s_example_u_module_d_mod" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="40" y="600" width="400" height="20" as="geometry" />
         </mxCell>
       </root>
